@@ -5,3 +5,7 @@
 ### 10th March
 1. Hero section 2 with iphone<br>
 2. Fixes for responsiveness<br>
+
+### 11th March
+1. Added section 3 with vision pro <br>
+2. Minor fixes.
