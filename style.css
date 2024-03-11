@@ -129,6 +129,19 @@ i:hover{
     text-decoration: none;
     font-size: 1.2rem;
 }
+.hero3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center ;
+}
+.hero3 img{
+    height:80vh;
+}
+.welcome{
+    position:relative;
+    text-align: center;
+}
 @media (max-width:833px) {
     .small{
         display: none;
